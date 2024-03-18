@@ -1,6 +1,6 @@
 **CAR RACING GAME**
 
-# 🎮 [Live Demo](#) 
+# 🎮 [Live Demo](https://krypto-etox.github.io/Snake-Game/) 
 
 This repository contains a Simple Web Car Racing Game project built using HTML, CSS, and JavaScript. The project provides an interactive web-based car racing game where players can control a car and race against other cars.
 
